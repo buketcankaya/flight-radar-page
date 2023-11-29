@@ -15,4 +15,4 @@ https://rapidapi.com/hub
 
 ### `Screen`
 
-![](./public/screen.gif)
+![](./vite-project/public/screen.gif)
